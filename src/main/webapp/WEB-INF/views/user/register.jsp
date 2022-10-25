@@ -54,12 +54,6 @@
                 <input type="text" class="form-control" id="phone" placeholder="휴대폰번호를 입력해 주세요">
             </div>
 
-
-            <div class="form-group">
-
-            </div>
-
-
             <div class="form-group text-center">
                 <input type="button" id="memberInsertBtn" class="btn btn-primary"
                        value="회원가입">
